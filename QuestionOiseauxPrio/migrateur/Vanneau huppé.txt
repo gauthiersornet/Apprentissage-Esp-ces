@@ -1,0 +1,3 @@
+Température: froide.
+Berceau: Nid à même le sol.
+Reproduction: Par 4 oeufs à même le sol.
