@@ -1,0 +1,7 @@
+Temperature: Froide
+Habitat: Niche dans les pays du Nord / Est europe.
+Alimentation: vers de terre / larves.
+Berceau: Nid sur le sol.
+Reproduction: Par 4 oeufs couvés 21 jours.
+Evolution des petits: Nidifuge.
+Comportement: Le male parade et donc croule. Il est polygame.
