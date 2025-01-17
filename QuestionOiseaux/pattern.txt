@@ -1,0 +1,12 @@
+Temperature: 
+Habitat: 
+Alimentation: 
+Repose dans: 
+Berceau: 
+Se néttoye dans: 
+Reproduction: 
+Evolution des petits: 
+Comportement: 
+Acroissement: 
+Prélèvement: 
+Longévité: 
