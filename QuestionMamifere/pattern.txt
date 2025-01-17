@@ -1,0 +1,10 @@
+Habitat:
+Alimentation: 
+Repose dans: 
+Berceau: 
+Se néttoye dans: 
+Reproduction: 
+Evolution des petits: 
+Acroissement: 
+Prélèvement: 
+Longévité: 
